@@ -1,23 +1,21 @@
-# reddit-clone
+# Reddit Clone
 
-## Overview
-This is a simple exploration of a Reddit clone application. The goal is to understand how Reddit works and to learn about web scraping and data management.
+## Introduction
+This repository is a simple exploration of a Reddit clone application.
 
 ## Features
-- User registration and authentication
-- Post creation and editing
-- Commenting on posts
+- User authentication
+- Post creation and commenting
+- Upvote and downvote functionality
 
-## Tech Stack
-- Python
-- Flask
-- SQLAlchemy
+## Technology Stack
+- React for frontend
+- Node.js for backend
+- MongoDB for database
 
 ## Usage
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+- Clone the repository and run `npm install` to install dependencies.
+- Start the application using `npm start`.
 
 ## Future Plans
-- Add a front-end interface using React
-- Implement advanced features like voting and notifications.
+- Implement real-time notifications and chat.
